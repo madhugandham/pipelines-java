@@ -14,7 +14,7 @@ pool:
 
   demands:
 
-  - maven
+  - npm
 
 steps:
 
