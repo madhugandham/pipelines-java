@@ -46,6 +46,7 @@
   <properties>
    
     <repositories>
+     <distributionManagement>	    
     <id>springfeed</id>
     <url>https://pkgs.dev.azure.com/madhu77/artifact/_packaging/springfeed/maven/v1</url>
     <releases>
